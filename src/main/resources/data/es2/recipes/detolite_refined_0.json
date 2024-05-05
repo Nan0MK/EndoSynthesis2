@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ddd",
+        "dgd",
+        "ddd"
+    ],
+    "key": {
+        "d": {
+            "item": "es2:detolite_dust"
+        },
+        "g": {
+            "item": "minecraft:lapis_lazuli"
+        }
+    },
+    "result": {
+        "item": "es2:detolite_refined"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "NCN",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "es2:septugium"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "C": {
+            "item": "minecraft:dragon_egg"
+        }
+    },
+    "result": {
+        "item": "es2:malkezium"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "NCN",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "es2:adonite_refined"
+        },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "C": {
+            "item": "minecraft:end_crystal"
+        }
+    },
+    "result": {
+        "item": "es2:septugium",
+        "count": 3
+    }
+}

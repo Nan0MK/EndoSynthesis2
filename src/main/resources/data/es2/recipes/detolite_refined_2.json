@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ddd",
+        "dgd",
+        "ddd"
+    ],
+    "key": {
+        "d": {
+            "item": "es2:detolite_dust"
+        },
+        "g": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "es2:detolite_refined",
+        "count": 4
+    }
+}

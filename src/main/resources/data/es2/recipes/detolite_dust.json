@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "es2:detolite"
+        }
+    ],
+    "result": {
+        "item": "es2:detolite_dust",
+        "count": 2
+    }
+}
